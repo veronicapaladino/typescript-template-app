@@ -8,6 +8,9 @@ Configuración con webpack 5 y Babel 7. Eslint(WIP)
 ## Start
 
 ```
+# Utilizamos version de node del proyecto
+nvm use
+
 # Install dependencies
 npm install
 
