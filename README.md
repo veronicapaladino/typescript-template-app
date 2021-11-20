@@ -1,11 +1,27 @@
 # typescript-template-app
 
-Este proyecto esta configurado con:
 
-[X]Weback
-[X]Babel
-[X]React
-[X]Typescript
-[X]Scss
-[X]Jest
+Template para crear una app con Typescript, React, Sass, Webpack, Babel, Jest. Tiene como objetivo usar este proyecto como template para crear proyectos con React.
+
+Configuración con webpack 5 y Babel 7. Eslint(WIP) , cypress(TODO)
+
+## Start
+
+```
+# Install dependencies
+npm install
+
+# Build Project
+npm run build
+
+# Build Estilos
+npm run watch
+
+# Run Project
+npm run start-dev
+
+
+# http://localhost:9000/
+
+
 
