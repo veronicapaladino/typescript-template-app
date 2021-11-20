@@ -1,0 +1,28 @@
+{
+  "name": "typescript-template-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veronicapaladino/typescript-template-app.git"
+  },
+  "keywords": [],
+  "author": "Veronica Paladino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veronicapaladino/typescript-template-app/issues"
+  },
+  "homepage": "https://github.com/veronicapaladino/typescript-template-app#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.2",
+    "webpack": "^5.64.2",
+    "webpack-cli": "^4.9.1"
+  }
+}
