@@ -1,9 +1,9 @@
 # typescript-template-app
 
 
-Template para crear una app con Typescript, React, Sass, Webpack, Babel, Jest. Tiene como objetivo usar este proyecto como template para crear proyectos con React.
+Template para crear una app con: Typescript, React, Sass, Webpack, Babel, Jest, Eslint. Tiene como objetivo usar este proyecto como template para crear proyectos con React.
 
-Configuración con webpack 5 y Babel 7. Eslint(WIP)
+Configuración con webpack 5 y Babel 7.
 
 ## Start
 
