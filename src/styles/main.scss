@@ -1,1 +1,14 @@
-@import './components/home';
+@import './variables';
+@import '../components/home/home';
+
+
+body {
+    margin: 0;
+    background-color: $backgrond-color;
+    min-width: 800px;
+    min-height: 600px;
+}
+
+* {
+    font-family: "Proxima Nova";
+}
